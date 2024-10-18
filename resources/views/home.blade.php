@@ -1,1 +1,7 @@
-<x-layout>I am home Page</x-layout>
+<x-layout>
+    <x-slot:heading>
+        Home Page
+    </x-slot:heading>
+
+    I am just a simple home page. 😢
+</x-layout>
